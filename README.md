@@ -26,3 +26,7 @@ I decided to gather as much components as possible from LCSC, and top up with Ar
  * _Link to BOM for Top PCB_
  * _Link to BOM for C245 PCB_
  * _Link to BOM for Back PCB_
+
+### Programming
+
+An SWD programmer is necessary to program the onboard STM32, I'd recommend the ever-present $2 ST-Link clones. In addition to the programmer, instead of soldering wires directly to the PCB, [a TagConnect clone](https://oshpark.com/shared_projects/iu92RM5z) could come in handy...
