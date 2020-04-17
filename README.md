@@ -29,4 +29,6 @@ I decided to gather as much components as possible from LCSC, and top up with Ar
 
 ### Programming
 
-An SWD programmer is necessary to program the onboard STM32, I'd recommend the ever-present $2 ST-Link clones. In addition to the programmer, instead of soldering wires directly to the PCB, [a TagConnect clone](https://oshpark.com/shared_projects/iu92RM5z) could come in handy...
+~~An SWD programmer is necessary to program the onboard STM32, I'd recommend the ever-present $2 ST-Link clones. In addition to the programmer, instead of soldering wires directly to the PCB, [a TagConnect clone](https://oshpark.com/shared_projects/iu92RM5z) could come in handy...~~
+
+The microcontroller used in Otter Iron PRO has a built-in USB DFU bootloader. That means you don't need an external programmer to flash a firmware.
