@@ -22,7 +22,7 @@ The PCBs are both two-layers designs, small enough to be panelized on a same 10x
 
 I decided to gather as much components as possible from LCSC, and top up with Arrow parts. The components used in this design aren't difficult to source, feel free to rework my BOM to suit your favorite dealer.
 
- * _Link to BOM for Bottom PCB_
+ * [Bottom PCB](BOM/OtterIron_PRO_Bot.html)
  * _Link to BOM for Top PCB_
  * _Link to BOM for C245 PCB_
  * _Link to BOM for Back PCB_
