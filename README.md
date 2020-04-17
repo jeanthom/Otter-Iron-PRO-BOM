@@ -1,4 +1,4 @@
-# Otter Iron PRO BOM (& other stuff)
+# Otter-Iron PRO BOM (& other stuff)
 
 Just a quick repository I set up to store all the informations around Otter Iron PRO (v2) when I wanted to build one for myself. Otter Iron PRO is a soldering iron controller designed by [Jan Henrik](https://twitter.com/janhenrikh) for JBC T245 system. It is powered through a USB-C connector, thus requiring a suitable USB-C power source (ie. a beefy laptop charger).
 
