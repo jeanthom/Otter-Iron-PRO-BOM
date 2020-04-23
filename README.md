@@ -4,9 +4,9 @@ Just a quick repository I set up to store all the informations around Otter Iron
 
 ## Schematics & PCB files
 
-[CAD files](https://github.com/Jan--Henrik/Otter-Iron-PRO), [firmware?](https://github.com/Jan--Henrik/Otter-Iron)
+[CAD files](https://github.com/Jan--Henrik/Otter-Iron-PRO), [firmware](https://github.com/Jan--Henrik/Otter-Iron-PRO/tree/master/firmware)
 
-v2 uses four PCBs which are in four different KiCAD projects. TODO: panelize
+v2 uses four PCBs which are in four different KiCAD projects.
 
 ## Parts
 
@@ -16,7 +16,12 @@ Official JBC T245 handpieces are easily available for 70€ ([Welectron, unspons
 
 ### PCBs
 
-The PCBs are both two-layers designs, small enough to be panelized on a same 10x10cm PCB.
+The PCBs are both two-layers designs, small enough to be panelized on a 10x10cm PCB.
+
+Prices at major PCB manufacturers:
+ * $22.90 at [oshpark](https://oshpark.com) (unpanelized, 3pcs of each PCB)
+ * $18.24 at [pcbs.io](https://pcbs.io) (unpanelized, 4pcs of each PCB, estimate)
+ * $14.00 + S&H at [jlcpcb](https://jlcpcb.com) (unpanelized, 5pcs of each PCB)
 
 ### Components
 
