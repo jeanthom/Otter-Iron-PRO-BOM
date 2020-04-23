@@ -30,7 +30,7 @@ I decided to gather as much components as possible from LCSC, and top up with Ar
  * [Bottom PCB](BOM/OtterIron_PRO_Bot.html)
  * [Top PCB](BOM/BOM/OtterIron_PRO_Top.html)
  * [C245 PCB](BOM/BOM/C245_conn.html)
- * _Link to BOM for Back PCB_
+ * No BOM for back PCB
 
 ### Programming
 
