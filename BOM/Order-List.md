@@ -2,7 +2,7 @@
 |-------|-----|-----------|-----------|----------|
 | C245 | 1 | otter:RPC1-12RB-6P(71) | RPC1-12RB-6P(71) |  |
 | 10u | 1 | Capacitor_SMD:C_1206_3216Metric |  | C89632 |
-| Otter-Iron | 20 | Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical |  |  |
+| Otter-Iron | 19 | Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical |  |  |
 | 2k37 | 14 | otter:R_0402 |  | C294439 |
 | 0.1μF | 7 | otter:C_0402 |  | C307331 |
 | 1μF 25V | 10 | otter:C_0603 |  | C29936 |
@@ -19,6 +19,7 @@
 | 20 | 1 | otter:R_0603 |  | C100853 |
 | SI8540 | 1 | Package_TO_SOT_SMD:SOT-23-5 | SI8540-B-FWR |  |
 | 33 | 2 | otter:R_0402 |  | C138002 |
+| 10m | 1 | otter:R_0805 | ERJ-6CWJR010V |  |
 | STM32F072C8Tx | 1 | otter:LQFP-48_7x7mm_P0.5mm |  | C80488 |
 | 1000µF | 1 | otter:CP_Radial_D10.0mm_P5.00mm_flat |  | C438456 |
 | BC807 | 1 | Package_TO_SOT_SMD:SOT-23 |  | C466642 |

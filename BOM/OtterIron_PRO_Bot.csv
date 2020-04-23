@@ -32,7 +32,7 @@ Reference, Value, Footprint, Datasheet, LCSC, Arrow
 "U7","SI8540","Package_TO_SOT_SMD:SOT-23-5","","","SI8540-B-FWR"
 "R20","33","otter:R_0402","~","C138002",""
 "R21","33","otter:R_0402","~","C138002",""
-"R22","10m","otter:R_0805","~"
+"R22","10m","otter:R_0805","~","","ERJ-6CWJR010V"
 "C22","0.1μF","otter:C_0402","~","C307331",""
 "R8","2k37","otter:R_0402","~","C294439",""
 "U4","STM32F072C8Tx","otter:LQFP-48_7x7mm_P0.5mm","http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf","C80488",""
