@@ -11,7 +11,7 @@ Reference, Value, Footprint, Datasheet, LCSC, Arrow
 "R12","2k37","otter:R_0402","~","C294439",""
 "R9","2k37","otter:R_0402","~","C294439",""
 "Q1","SS8050","Package_TO_SOT_SMD:SOT-23","https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf","C2150",""
-"D3","B140-E3","Diode_SMD:D_SOD-123F","http://www.vishay.com/docs/88946/b120.pdf","C142601",""
+"D3","B140-E3","Diode_SMD:D_SOD-123F","http://www.vishay.com/docs/88946/b120.pdf","C64891",""
 "C10","0.1μF","otter:C_0402","~","C307331",""
 "C11","1μF 25V","otter:C_0603","~","C29936",""
 "P1","TC2030-CTX","otter:TC2030",""

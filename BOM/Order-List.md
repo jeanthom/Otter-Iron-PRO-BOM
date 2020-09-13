@@ -9,7 +9,7 @@
 | AP2204R-3.3 | 1 | Package_TO_SOT_SMD:SOT-89-3 |  | C156303 |
 | DMP3017SFG | 1 | otter:Diodes_PowerDI3333-8 |  | C461072 |
 | SS8050 | 2 | Package_TO_SOT_SMD:SOT-23 |  | C2150 |
-| B140-E3 | 1 | Diode_SMD:D_SOD-123F |  | C142601 |
+| B140-E3 | 1 | Diode_SMD:D_SOD-123F |  | C64891 |
 | 100k | 2 | otter:R_0402 |  | C279979 |
 | 560k | 2 | otter:R_0402 |  | C325569 |
 | OPA340NA | 1 | Package_TO_SOT_SMD:SOT-23-5 | OPA340NA/250 | C181370 |
