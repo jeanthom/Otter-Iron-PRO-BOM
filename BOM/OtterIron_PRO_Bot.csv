@@ -42,6 +42,6 @@ Reference, Value, Footprint, Datasheet, LCSC, Arrow
 "Q3","SS8050","Package_TO_SOT_SMD:SOT-23","https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf","C2150",""
 "R25","2k37","otter:R_0402","~","C294439",""
 "Q4","BC807","Package_TO_SOT_SMD:SOT-23","http://www.fairchildsemi.com/ds/BC/BC807.pdf","C466642",""
-"L1","4.7u","Inductor_SMD:L_Taiyo-Yuden_NR-60xx","~","C404501",""
+"L1","0R","Inductor_SMD:L_Taiyo-Yuden_NR-60xx","~","C25469",""
 "J3","C245","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal","~","C2334",""
 "J1","Conn_01x10","Connector_PinHeader_2.00mm:PinHeader_1x10_P2.00mm_Horizontal","~","C3413",""
