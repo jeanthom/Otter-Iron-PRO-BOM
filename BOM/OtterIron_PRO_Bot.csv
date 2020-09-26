@@ -7,7 +7,7 @@ Reference, Value, Footprint, Datasheet, LCSC, Arrow
 "C1","1μF 25V","otter:C_0603","~","C29936",""
 "C4","1μF 25V","otter:C_0603","~","C29936",""
 "U2","AP2204R-3.3","Package_TO_SOT_SMD:SOT-89-3","https://www.diodes.com/assets/Datasheets/AP2204.pdf","C156303",""
-"Q2","DMP3017SFG","otter:Diodes_PowerDI3333-8","https://www.diodes.com/assets/Datasheets/DMP3017SFG.pdf","C461072",""
+"Q2","DMP3013SFV","otter:Diodes_PowerDI3333-8","https://datasheet.lcsc.com/szlcsc/1808280351_Diodes-Incorporated-DMP3013SFV-7_C264098.pdf","C264098",""
 "R12","2k37","otter:R_0402","~","C294439",""
 "R9","2k37","otter:R_0402","~","C294439",""
 "Q1","SS8050","Package_TO_SOT_SMD:SOT-23","https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf","C2150",""
